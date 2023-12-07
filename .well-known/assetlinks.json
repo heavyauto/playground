@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zettle.android.sdk.example.integration",
+      "sha256_cert_fingerprints": [
+        "7C:CA:B0:76:1A:EA:C1:9A:E3:07:CD:48:E1:EF:A0:C7:59:B9:7F:E3:E9:08:41:4A:23:FB:3A:6D:55:D0:86:67","1F:6C:B1:82:40:93:0F:06:92:92:F6:50:EA:5E:51:32:A7:F9:6B:F5:93:EF:B9:A9:CA:CC:B8:DD:09:B2:BD:09"
+      ]
+    }
+  }
+]
